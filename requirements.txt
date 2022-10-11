@@ -1,0 +1,9 @@
+numpy==1.22.3
+pytorch_lightning==1.4.6
+albumentations==1.0.3
+tensorflow_gpu==2.5.0
+torch==1.9.0+cu111
+opencv_python_headless==4.5.3.56
+matplotlib==3.5.1
+segmentation_models_pytorch==0.2.0
+tensorflow==2.8.0
